@@ -1,0 +1,29 @@
+{
+  "name": "cloud-init-datasource",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fredericgermain/cloud-init-datasource.git"
+  },
+  "keywords": [
+    "cloud-init",
+    "datasource",
+    "aws",
+    "qemu",
+    "cloud"
+  ],
+  "author": "GERMAIN Frédéric",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/fredericgermain/cloud-init-datasource/issues"
+  },
+  "homepage": "https://github.com/fredericgermain/cloud-init-datasource#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "userData": "",
+  "availabilityRegion":"us-southeast-1a",
+  "cluster": "1234567643456",
+  "server": "123456754Aeq",
+  "amiId": "ami-xxxxxxxx",
+  "localIP": "10.0.0.70",
+  "publicIP": "8.8.88.88",
+  "sshKeyData": "ssh-rsa xgUM06JWB0Z7iqJYrmHoYCj/2Zz0J+PgaFo56BLI8z85ezwDiw90U30PsKd user@server",
+  "cloudDomain": "mycloud.com",
+  "instanceId": "i-xxxxx",
+  "reservationId": "r-xxxx"
+}
